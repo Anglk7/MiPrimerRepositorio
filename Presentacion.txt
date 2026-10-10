@@ -1,5 +1,4 @@
-Hola.
-Mi nombre es Pablo Angel.
-Estoy aprendiendo Git.
-Mi objetivo es convertirme en desarrollador de software.
+Mi comida favorita es la bandeja paisa.
+Mi hobby favorito es salir con mis amigos.
+Mi sueño profesional es ser arquero profesional.
 Guardar.
